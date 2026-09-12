@@ -1,0 +1,273 @@
+code,line_item,fiscal_year,value,statement_group,is_subtotal,is_percent_metric
+IS_COGS,Cost of Goods Sold,2016,-9500.0,Cost,False,False
+IS_COGS,Cost of Goods Sold,2017,-10524.0,Cost,False,False
+IS_COGS,Cost of Goods Sold,2018,-10607.0,Cost,False,False
+IS_COGS,Cost of Goods Sold,2019,-11347.0,Cost,False,False
+IS_COGS,Cost of Goods Sold,2020,-9982.0,Cost,False,False
+IS_COGS,Cost of Goods Sold,2021,-10511.0,Cost,False,False
+IS_COGS,Cost of Goods Sold,2022,-11863.0,Cost,False,False
+IS_COGS,Cost of Goods Sold,2023,-11249.0,Cost,False,False
+IS_DIST,Distribution and Selling Expense,2016,-4029.0,Operating expense,False,False
+IS_DIST,Distribution and Selling Expense,2017,-4710.0,Operating expense,False,False
+IS_DIST,Distribution and Selling Expense,2018,-4909.0,Operating expense,False,False
+IS_DIST,Distribution and Selling Expense,2019,-5272.0,Operating expense,False,False
+IS_DIST,Distribution and Selling Expense,2020,-5358.0,Operating expense,False,False
+IS_DIST,Distribution and Selling Expense,2021,-4969.0,Operating expense,False,False
+IS_DIST,Distribution and Selling Expense,2022,-5470.0,Operating expense,False,False
+IS_DIST,Distribution and Selling Expense,2023,-5528.0,Operating expense,False,False
+IS_DPS,Dividend Per Share (DPS),2016,2.0,Per share,False,False
+IS_DPS,Dividend Per Share (DPS),2017,2.6,Per share,False,False
+IS_DPS,Dividend Per Share (DPS),2018,3.35,Per share,False,False
+IS_DPS,Dividend Per Share (DPS),2019,3.85,Per share,False,False
+IS_DPS,Dividend Per Share (DPS),2020,,Per share,False,False
+IS_DPS,Dividend Per Share (DPS),2021,3.3,Per share,False,False
+IS_DPS,Dividend Per Share (DPS),2022,0.7,Per share,False,False
+IS_DPS,Dividend Per Share (DPS),2023,0.7,Per share,False,False
+IS_EBIT,Operating Profit (EBIT),2016,1407.0,Subtotal,True,False
+IS_EBIT,Operating Profit (EBIT),2017,1985.0,Subtotal,True,False
+IS_EBIT,Operating Profit (EBIT),2018,2361.0,Subtotal,True,False
+IS_EBIT,Operating Profit (EBIT),2019,2620.0,Subtotal,True,False
+IS_EBIT,Operating Profit (EBIT),2020,803.0,Subtotal,True,False
+IS_EBIT,Operating Profit (EBIT),2021,1840.0,Subtotal,True,False
+IS_EBIT,Operating Profit (EBIT),2022,387.0,Subtotal,True,False
+IS_EBIT,Operating Profit (EBIT),2023,355.0,Subtotal,True,False
+IS_EBT,Income Before Taxes,2016,1353.0,Subtotal,True,False
+IS_EBT,Income Before Taxes,2017,1927.0,Subtotal,True,False
+IS_EBT,Income Before Taxes,2018,2298.0,Subtotal,True,False
+IS_EBT,Income Before Taxes,2019,2486.0,Subtotal,True,False
+IS_EBT,Income Before Taxes,2020,651.0,Subtotal,True,False
+IS_EBT,Income Before Taxes,2021,1698.0,Subtotal,True,False
+IS_EBT,Income Before Taxes,2022,232.0,Subtotal,True,False
+IS_EBT,Income Before Taxes,2023,175.0,Subtotal,True,False
+IS_EPSB,Basic EPS,2016,4.72,Per share,False,False
+IS_EPSB,Basic EPS,2017,6.78,Per share,False,False
+IS_EPSB,Basic EPS,2018,8.45,Per share,False,False
+IS_EPSB,Basic EPS,2019,9.48,Per share,False,False
+IS_EPSB,Basic EPS,2020,1.79,Per share,False,False
+IS_EPSB,Basic EPS,2021,7.39,Per share,False,False
+IS_EPSB,Basic EPS,2022,0.27,Per share,False,False
+IS_EPSB,Basic EPS,2023,-0.18,Per share,False,False
+IS_EPSD,Diluted EPS,2016,4.7,Per share,False,False
+IS_EPSD,Diluted EPS,2017,6.75,Per share,False,False
+IS_EPSD,Diluted EPS,2018,8.42,Per share,False,False
+IS_EPSD,Diluted EPS,2019,9.44,Per share,False,False
+IS_EPSD,Diluted EPS,2020,1.78,Per share,False,False
+IS_EPSD,Diluted EPS,2021,7.36,Per share,False,False
+IS_EPSD,Diluted EPS,2022,0.27,Per share,False,False
+IS_EPSD,Diluted EPS,2023,-0.18,Per share,False,False
+IS_ETR,Effective Tax Rate %,2016,0.29,Margin %,False,True
+IS_ETR,Effective Tax Rate %,2017,0.28,Margin %,False,True
+IS_ETR,Effective Tax Rate %,2018,0.26,Margin %,False,True
+IS_ETR,Effective Tax Rate %,2019,0.25,Margin %,False,True
+IS_ETR,Effective Tax Rate %,2020,0.35,Margin %,False,True
+IS_ETR,Effective Tax Rate %,2021,0.28,Margin %,False,True
+IS_ETR,Effective Tax Rate %,2022,0.75,Margin %,False,True
+IS_ETR,Effective Tax Rate %,2023,1.149,Margin %,False,True
+IS_FINEXP,Financial Expenses,2016,-74.0,Financial,False,False
+IS_FINEXP,Financial Expenses,2017,-82.0,Financial,False,False
+IS_FINEXP,Financial Expenses,2018,-91.0,Financial,False,False
+IS_FINEXP,Financial Expenses,2019,-166.0,Financial,False,False
+IS_FINEXP,Financial Expenses,2020,-178.0,Financial,False,False
+IS_FINEXP,Financial Expenses,2021,-172.0,Financial,False,False
+IS_FINEXP,Financial Expenses,2022,-199.0,Financial,False,False
+IS_FINEXP,Financial Expenses,2023,-242.0,Financial,False,False
+IS_FININC,Financial Income,2016,20.0,Financial,False,False
+IS_FININC,Financial Income,2017,24.0,Financial,False,False
+IS_FININC,Financial Income,2018,28.0,Financial,False,False
+IS_FININC,Financial Income,2019,32.0,Financial,False,False
+IS_FININC,Financial Income,2020,26.0,Financial,False,False
+IS_FININC,Financial Income,2021,30.0,Financial,False,False
+IS_FININC,Financial Income,2022,44.0,Financial,False,False
+IS_FININC,Financial Income,2023,62.0,Financial,False,False
+IS_GNA,General & Administration,2016,-998.0,Operating expense,False,False
+IS_GNA,General & Administration,2017,-1125.0,Operating expense,False,False
+IS_GNA,General & Administration,2018,-1140.0,Operating expense,False,False
+IS_GNA,General & Administration,2019,-1347.0,Operating expense,False,False
+IS_GNA,General & Administration,2020,-1290.0,Operating expense,False,False
+IS_GNA,General & Administration,2021,-1295.0,Operating expense,False,False
+IS_GNA,General & Administration,2022,-1756.0,Operating expense,False,False
+IS_GNA,General & Administration,2023,-1564.0,Operating expense,False,False
+IS_GP,Gross Profit,2016,8983.0,Subtotal,True,False
+IS_GP,Gross Profit,2017,10694.0,Subtotal,True,False
+IS_GP,Gross Profit,2018,11308.0,Subtotal,True,False
+IS_GP,Gross Profit,2019,12293.0,Subtotal,True,False
+IS_GP,Gross Profit,2020,9862.0,Subtotal,True,False
+IS_GP,Gross Profit,2021,10723.0,Subtotal,True,False
+IS_GP,Gross Profit,2022,10648.0,Subtotal,True,False
+IS_GP,Gross Profit,2023,10178.0,Subtotal,True,False
+IS_GPM,Gross Margin %,2016,0.486,Margin %,False,True
+IS_GPM,Gross Margin %,2017,0.504,Margin %,False,True
+IS_GPM,Gross Margin %,2018,0.516,Margin %,False,True
+IS_GPM,Gross Margin %,2019,0.52,Margin %,False,True
+IS_GPM,Gross Margin %,2020,0.49700000000000005,Margin %,False,True
+IS_GPM,Gross Margin %,2021,0.505,Margin %,False,True
+IS_GPM,Gross Margin %,2022,0.473,Margin %,False,True
+IS_GPM,Gross Margin %,2023,0.475,Margin %,False,True
+IS_IMP,Goodwill / Intangible Impairment,2016,,Operating expense,False,False
+IS_IMP,Goodwill / Intangible Impairment,2017,,Operating expense,False,False
+IS_IMP,Goodwill / Intangible Impairment,2018,,Operating expense,False,False
+IS_IMP,Goodwill / Intangible Impairment,2019,,Operating expense,False,False
+IS_IMP,Goodwill / Intangible Impairment,2020,,Operating expense,False,False
+IS_IMP,Goodwill / Intangible Impairment,2021,,Operating expense,False,False
+IS_IMP,Goodwill / Intangible Impairment,2022,-194.0,Operating expense,False,False
+IS_IMP,Goodwill / Intangible Impairment,2023,,Operating expense,False,False
+IS_MIN,Less: Minority Interest,2016,-12.0,Subtotal,False,False
+IS_MIN,Less: Minority Interest,2017,-14.0,Subtotal,False,False
+IS_MIN,Less: Minority Interest,2018,-11.0,Subtotal,False,False
+IS_MIN,Less: Minority Interest,2019,-9.0,Subtotal,False,False
+IS_MIN,Less: Minority Interest,2020,-6.0,Subtotal,False,False
+IS_MIN,Less: Minority Interest,2021,-8.0,Subtotal,False,False
+IS_MIN,Less: Minority Interest,2022,-8.0,Subtotal,False,False
+IS_MIN,Less: Minority Interest,2023,-7.0,Subtotal,False,False
+IS_MKT,Marketing and Point-of-Sale,2016,-2532.0,Operating expense,False,False
+IS_MKT,Marketing and Point-of-Sale,2017,-2843.0,Operating expense,False,False
+IS_MKT,Marketing and Point-of-Sale,2018,-2871.0,Operating expense,False,False
+IS_MKT,Marketing and Point-of-Sale,2019,-3026.0,Operating expense,False,False
+IS_MKT,Marketing and Point-of-Sale,2020,-2361.0,Operating expense,False,False
+IS_MKT,Marketing and Point-of-Sale,2021,-2569.0,Operating expense,False,False
+IS_MKT,Marketing and Point-of-Sale,2022,-2791.0,Operating expense,False,False
+IS_MKT,Marketing and Point-of-Sale,2023,-2636.0,Operating expense,False,False
+IS_NI,Net Income (Total),2016,961.0,Subtotal,True,False
+IS_NI,Net Income (Total),2017,1387.0,Subtotal,True,False
+IS_NI,Net Income (Total),2018,1701.0,Subtotal,True,False
+IS_NI,Net Income (Total),2019,1864.0,Subtotal,True,False
+IS_NI,Net Income (Total),2020,353.0,Subtotal,True,False
+IS_NI,Net Income (Total),2021,1455.0,Subtotal,True,False
+IS_NI,Net Income (Total),2022,58.0,Subtotal,True,False
+IS_NI,Net Income (Total),2023,-26.0,Subtotal,True,False
+IS_NICONT,Net Income from Continuing Ops.,2016,961.0,Subtotal,True,False
+IS_NICONT,Net Income from Continuing Ops.,2017,1387.0,Subtotal,True,False
+IS_NICONT,Net Income from Continuing Ops.,2018,1701.0,Subtotal,True,False
+IS_NICONT,Net Income from Continuing Ops.,2019,1864.0,Subtotal,True,False
+IS_NICONT,Net Income from Continuing Ops.,2020,423.0,Subtotal,True,False
+IS_NICONT,Net Income from Continuing Ops.,2021,1223.0,Subtotal,True,False
+IS_NICONT,Net Income from Continuing Ops.,2022,58.0,Subtotal,True,False
+IS_NICONT,Net Income from Continuing Ops.,2023,-26.0,Subtotal,True,False
+IS_NIDISC,Net Income from Disc. Operations,2016,,Subtotal,False,False
+IS_NIDISC,Net Income from Disc. Operations,2017,,Subtotal,False,False
+IS_NIDISC,Net Income from Disc. Operations,2018,,Subtotal,False,False
+IS_NIDISC,Net Income from Disc. Operations,2019,,Subtotal,False,False
+IS_NIDISC,Net Income from Disc. Operations,2020,-70.0,Subtotal,False,False
+IS_NIDISC,Net Income from Disc. Operations,2021,232.0,Subtotal,False,False
+IS_NIDISC,Net Income from Disc. Operations,2022,,Subtotal,False,False
+IS_NIDISC,Net Income from Disc. Operations,2023,,Subtotal,False,False
+IS_NISH,Net Income Attrib. to Shareholders,2016,949.0,Subtotal,True,False
+IS_NISH,Net Income Attrib. to Shareholders,2017,1373.0,Subtotal,True,False
+IS_NISH,Net Income Attrib. to Shareholders,2018,1690.0,Subtotal,True,False
+IS_NISH,Net Income Attrib. to Shareholders,2019,1855.0,Subtotal,True,False
+IS_NISH,Net Income Attrib. to Shareholders,2020,347.0,Subtotal,True,False
+IS_NISH,Net Income Attrib. to Shareholders,2021,1447.0,Subtotal,True,False
+IS_NISH,Net Income Attrib. to Shareholders,2022,50.0,Subtotal,True,False
+IS_NISH,Net Income Attrib. to Shareholders,2023,-33.0,Subtotal,True,False
+IS_OOE,Total Other Operating Exp.,2016,-7744.0,Subtotal,True,False
+IS_OOE,Total Other Operating Exp.,2017,-8890.0,Subtotal,True,False
+IS_OOE,Total Other Operating Exp.,2018,-9139.0,Subtotal,True,False
+IS_OOE,Total Other Operating Exp.,2019,-9881.0,Subtotal,True,False
+IS_OOE,Total Other Operating Exp.,2020,-9207.0,Subtotal,True,False
+IS_OOE,Total Other Operating Exp.,2021,-9045.0,Subtotal,True,False
+IS_OOE,Total Other Operating Exp.,2022,-10242.0,Subtotal,True,False
+IS_OOE,Total Other Operating Exp.,2023,-9985.0,Subtotal,True,False
+IS_OOI,Other Operating Income,2016,60.0,Other income,False,False
+IS_OOI,Other Operating Income,2017,66.0,Other income,False,False
+IS_OOI,Other Operating Income,2018,71.0,Other income,False,False
+IS_OOI,Other Operating Income,2019,78.0,Other income,False,False
+IS_OOI,Other Operating Income,2020,52.0,Other income,False,False
+IS_OOI,Other Operating Income,2021,58.0,Other income,False,False
+IS_OOI,Other Operating Income,2022,63.0,Other income,False,False
+IS_OOI,Other Operating Income,2023,55.0,Other income,False,False
+IS_OPM,Operating Margin %,2016,0.076,Margin %,False,True
+IS_OPM,Operating Margin %,2017,0.094,Margin %,False,True
+IS_OPM,Operating Margin %,2018,0.10800000000000001,Margin %,False,True
+IS_OPM,Operating Margin %,2019,0.111,Margin %,False,True
+IS_OPM,Operating Margin %,2020,0.04,Margin %,False,True
+IS_OPM,Operating Margin %,2021,0.087,Margin %,False,True
+IS_OPM,Operating Margin %,2022,0.017,Margin %,False,True
+IS_OPM,Operating Margin %,2023,0.017,Margin %,False,True
+IS_REVGR,Revenue Growth Y/Y,2016,,Growth %,False,True
+IS_REVGR,Revenue Growth Y/Y,2017,0.14800000000000002,Growth %,False,True
+IS_REVGR,Revenue Growth Y/Y,2018,0.033,Growth %,False,True
+IS_REVGR,Revenue Growth Y/Y,2019,0.079,Growth %,False,True
+IS_REVGR,Revenue Growth Y/Y,2020,-0.161,Growth %,False,True
+IS_REVGR,Revenue Growth Y/Y,2021,0.07,Growth %,False,True
+IS_REVGR,Revenue Growth Y/Y,2022,0.06,Growth %,False,True
+IS_REVGR,Revenue Growth Y/Y,2023,-0.048,Growth %,False,True
+IS_REV_OTH,Other Businesses,2016,979.0,Revenue,False,False
+IS_REV_OTH,Other Businesses,2017,1103.0,Revenue,False,False
+IS_REV_OTH,Other Businesses,2018,986.0,Revenue,False,False
+IS_REV_OTH,Other Businesses,2019,969.0,Revenue,False,False
+IS_REV_OTH,Other Businesses,2020,714.0,Revenue,False,False
+IS_REV_OTH,Other Businesses,2021,658.0,Revenue,False,False
+IS_REV_OTH,Other Businesses,2022,630.0,Revenue,False,False
+IS_REV_OTH,Other Businesses,2023,579.0,Revenue,False,False
+IS_REV_RT,Retail,2016,5841.0,Revenue,False,False
+IS_REV_RT,Retail,2017,7172.0,Revenue,False,False
+IS_REV_RT,Retail,2018,8196.0,Revenue,False,False
+IS_REV_RT,Retail,2019,9480.0,Revenue,False,False
+IS_REV_RT,Retail,2020,8970.0,Revenue,False,False
+IS_REV_RT,Retail,2021,9428.0,Revenue,False,False
+IS_REV_RT,Retail,2022,9725.0,Revenue,False,False
+IS_REV_RT,Retail,2023,9706.0,Revenue,False,False
+IS_REV_TOT,Total Net Revenue,2016,18483.0,Revenue,True,False
+IS_REV_TOT,Total Net Revenue,2017,21218.0,Revenue,True,False
+IS_REV_TOT,Total Net Revenue,2018,21915.0,Revenue,True,False
+IS_REV_TOT,Total Net Revenue,2019,23640.0,Revenue,True,False
+IS_REV_TOT,Total Net Revenue,2020,19844.0,Revenue,True,False
+IS_REV_TOT,Total Net Revenue,2021,21234.0,Revenue,True,False
+IS_REV_TOT,Total Net Revenue,2022,22511.0,Revenue,True,False
+IS_REV_TOT,Total Net Revenue,2023,21427.0,Revenue,True,False
+IS_REV_WS,Wholesale,2016,11663.0,Revenue,False,False
+IS_REV_WS,Wholesale,2017,12943.0,Revenue,False,False
+IS_REV_WS,Wholesale,2018,12733.0,Revenue,False,False
+IS_REV_WS,Wholesale,2019,13191.0,Revenue,False,False
+IS_REV_WS,Wholesale,2020,10160.0,Revenue,False,False
+IS_REV_WS,Wholesale,2021,11148.0,Revenue,False,False
+IS_REV_WS,Wholesale,2022,12156.0,Revenue,False,False
+IS_REV_WS,Wholesale,2023,11142.0,Revenue,False,False
+IS_ROY,Royalty and Commission Income,2016,108.0,Other income,False,False
+IS_ROY,Royalty and Commission Income,2017,115.0,Other income,False,False
+IS_ROY,Royalty and Commission Income,2018,121.0,Other income,False,False
+IS_ROY,Royalty and Commission Income,2019,130.0,Other income,False,False
+IS_ROY,Royalty and Commission Income,2020,96.0,Other income,False,False
+IS_ROY,Royalty and Commission Income,2021,104.0,Other income,False,False
+IS_ROY,Royalty and Commission Income,2022,112.0,Other income,False,False
+IS_ROY,Royalty and Commission Income,2023,107.0,Other income,False,False
+IS_SUN,Sundry Expenses,2016,-185.0,Operating expense,False,False
+IS_SUN,Sundry Expenses,2017,-212.0,Operating expense,False,False
+IS_SUN,Sundry Expenses,2018,-219.0,Operating expense,False,False
+IS_SUN,Sundry Expenses,2019,-236.0,Operating expense,False,False
+IS_SUN,Sundry Expenses,2020,-198.0,Operating expense,False,False
+IS_SUN,Sundry Expenses,2021,-212.0,Operating expense,False,False
+IS_SUN,Sundry Expenses,2022,-225.0,Operating expense,False,False
+IS_SUN,Sundry Expenses,2023,-257.0,Operating expense,False,False
+IS_TAX,Income Tax Expense,2016,-392.0,Tax,False,False
+IS_TAX,Income Tax Expense,2017,-540.0,Tax,False,False
+IS_TAX,Income Tax Expense,2018,-597.0,Tax,False,False
+IS_TAX,Income Tax Expense,2019,-622.0,Tax,False,False
+IS_TAX,Income Tax Expense,2020,-228.0,Tax,False,False
+IS_TAX,Income Tax Expense,2021,-475.0,Tax,False,False
+IS_TAX,Income Tax Expense,2022,-174.0,Tax,False,False
+IS_TAX,Income Tax Expense,2023,-201.0,Tax,False,False
+IS_WASB,Wtd. Avg Shares - Basic,2016,201.0,Shares,False,False
+IS_WASB,Wtd. Avg Shares - Basic,2017,202.5,Shares,False,False
+IS_WASB,Wtd. Avg Shares - Basic,2018,200.0,Shares,False,False
+IS_WASB,Wtd. Avg Shares - Basic,2019,195.7,Shares,False,False
+IS_WASB,Wtd. Avg Shares - Basic,2020,194.3,Shares,False,False
+IS_WASB,Wtd. Avg Shares - Basic,2021,195.8,Shares,False,False
+IS_WASB,Wtd. Avg Shares - Basic,2022,183.5,Shares,False,False
+IS_WASB,Wtd. Avg Shares - Basic,2023,178.6,Shares,False,False
+IS_WASD,Wtd. Avg Shares - Diluted,2016,201.8,Shares,False,False
+IS_WASD,Wtd. Avg Shares - Diluted,2017,203.3,Shares,False,False
+IS_WASD,Wtd. Avg Shares - Diluted,2018,200.8,Shares,False,False
+IS_WASD,Wtd. Avg Shares - Diluted,2019,196.5,Shares,False,False
+IS_WASD,Wtd. Avg Shares - Diluted,2020,195.1,Shares,False,False
+IS_WASD,Wtd. Avg Shares - Diluted,2021,196.6,Shares,False,False
+IS_WASD,Wtd. Avg Shares - Diluted,2022,184.2,Shares,False,False
+IS_WASD,Wtd. Avg Shares - Diluted,2023,179.3,Shares,False,False
+,These figures are synthetic training data and must not be presented as actual company results.,2016,,,False,False
+,These figures are synthetic training data and must not be presented as actual company results.,2017,,,False,False
+,These figures are synthetic training data and must not be presented as actual company results.,2018,,,False,False
+,These figures are synthetic training data and must not be presented as actual company results.,2019,,,False,False
+,These figures are synthetic training data and must not be presented as actual company results.,2020,,,False,False
+,These figures are synthetic training data and must not be presented as actual company results.,2021,,,False,False
+,These figures are synthetic training data and must not be presented as actual company results.,2022,,,False,False
+,These figures are synthetic training data and must not be presented as actual company results.,2023,,,False,False

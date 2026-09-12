@@ -1,0 +1,65 @@
+dimension,segment,fiscal_year,value
+category,Footwear,2016,10073.0
+category,Footwear,2017,11712.0
+category,Footwear,2018,12272.0
+category,Footwear,2019,13380.0
+category,Footwear,2020,11629.0
+category,Footwear,2021,12252.0
+category,Footwear,2022,12831.0
+category,Footwear,2023,12470.0
+category,Apparel,2016,7264.0
+category,Apparel,2017,8190.0
+category,Apparel,2018,8306.0
+category,Apparel,2019,8865.0
+category,Apparel,2020,7104.0
+category,Apparel,2021,7772.0
+category,Apparel,2022,8397.0
+category,Apparel,2023,7757.0
+category,Acc. & Gear,2016,1146.0
+category,Acc. & Gear,2017,1316.0
+category,Acc. & Gear,2018,1337.0
+category,Acc. & Gear,2019,1395.0
+category,Acc. & Gear,2020,1111.0
+category,Acc. & Gear,2021,1210.0
+category,Acc. & Gear,2022,1283.0
+category,Acc. & Gear,2023,1200.0
+brand,adidas,2016,16746.0
+brand,adidas,2017,19457.0
+brand,adidas,2018,20271.0
+brand,adidas,2019,21985.0
+brand,adidas,2020,18614.0
+brand,adidas,2021,20045.0
+brand,adidas,2022,22511.0
+brand,adidas,2023,21427.0
+brand,Reebok,2016,1737.0
+brand,Reebok,2017,1761.0
+brand,Reebok,2018,1644.0
+brand,Reebok,2019,1655.0
+brand,Reebok,2020,1230.0
+brand,Reebok,2021,1189.0
+brand,Reebok,2022,
+brand,Reebok,2023,
+channel,Wholesale,2016,11663.0
+channel,Wholesale,2017,12943.0
+channel,Wholesale,2018,12733.0
+channel,Wholesale,2019,13191.0
+channel,Wholesale,2020,10160.0
+channel,Wholesale,2021,11148.0
+channel,Wholesale,2022,12156.0
+channel,Wholesale,2023,11142.0
+channel,Retail,2016,5841.0
+channel,Retail,2017,7172.0
+channel,Retail,2018,8196.0
+channel,Retail,2019,9480.0
+channel,Retail,2020,8970.0
+channel,Retail,2021,9428.0
+channel,Retail,2022,9725.0
+channel,Retail,2023,9706.0
+channel,Other Businesses,2016,979.0
+channel,Other Businesses,2017,1103.0
+channel,Other Businesses,2018,986.0
+channel,Other Businesses,2019,969.0
+channel,Other Businesses,2020,714.0
+channel,Other Businesses,2021,658.0
+channel,Other Businesses,2022,630.0
+channel,Other Businesses,2023,579.0

@@ -1,0 +1,44 @@
+RECONCILIATION REPORT
+============================================================
+
+1) Revenue by channel = Total Net Revenue
+   FY2016: PASS  (sum=18483.0 vs reported=18483.0)
+   FY2017: PASS  (sum=21218.0 vs reported=21218.0)
+   FY2018: PASS  (sum=21915.0 vs reported=21915.0)
+   FY2019: PASS  (sum=23640.0 vs reported=23640.0)
+   FY2020: PASS  (sum=19844.0 vs reported=19844.0)
+   FY2021: PASS  (sum=21234.0 vs reported=21234.0)
+   FY2022: PASS  (sum=22511.0 vs reported=22511.0)
+   FY2023: PASS  (sum=21427.0 vs reported=21427.0)
+
+2) Gross Profit = Revenue - COGS
+   FY2016: PASS  (calc=8983.0 vs reported=8983.0)
+   FY2017: PASS  (calc=10694.0 vs reported=10694.0)
+   FY2018: PASS  (calc=11308.0 vs reported=11308.0)
+   FY2019: PASS  (calc=12293.0 vs reported=12293.0)
+   FY2020: PASS  (calc=9862.0 vs reported=9862.0)
+   FY2021: PASS  (calc=10723.0 vs reported=10723.0)
+   FY2022: PASS  (calc=10648.0 vs reported=10648.0)
+   FY2023: PASS  (calc=10178.0 vs reported=10178.0)
+
+3) EBIT ties to its own build-up (GP + other income - opex)
+   FY2016: PASS  (calc=1407.0 vs reported=1407.0)
+   FY2017: PASS  (calc=1985.0 vs reported=1985.0)
+   FY2018: PASS  (calc=2361.0 vs reported=2361.0)
+   FY2019: PASS  (calc=2620.0 vs reported=2620.0)
+   FY2020: PASS  (calc=803.0 vs reported=803.0)
+   FY2021: PASS  (calc=1840.0 vs reported=1840.0)
+   FY2022: PASS  (calc=387.0 vs reported=387.0)
+   FY2023: PASS  (calc=355.0 vs reported=355.0)
+
+4) EPS = Net Income Attrib. to Shareholders / Wtd. Avg Basic Shares
+   FY2016: PASS  (calc=4.72 vs reported=4.72)
+   FY2017: PASS  (calc=6.78 vs reported=6.78)
+   FY2018: PASS  (calc=8.45 vs reported=8.45)
+   FY2019: PASS  (calc=9.48 vs reported=9.48)
+   FY2020: PASS  (calc=1.79 vs reported=1.79)
+   FY2021: PASS  (calc=7.39 vs reported=7.39)
+   FY2022: PASS  (calc=0.27 vs reported=0.27)
+   FY2023: PASS  (calc=-0.18 vs reported=-0.18)
+
+Note: FY2018 'Other Businesses' revenue was corrected from a raw extraction value of 986,000 (EUR thousands) to 986.0 (EUR millions) before running check #1 — see data_quality_log.csv, issue 'unit inconsistency'.
